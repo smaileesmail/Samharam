@@ -1825,7 +1825,7 @@ color: rgb(103, 9, 9);
   background-position: center;
   position: relative;
   padding: 120px 0 60px 0;
-  color: rgba(247, 248, 246, 0.8);
+  color: rgb(255, 255, 255);
 }
 
 .hero h2 {
