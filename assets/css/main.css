@@ -622,7 +622,7 @@ section {
 
 .values .box:hover {
   box-shadow: 0px 0 30px rgba(1, 41, 112, 0.08);
- }
+}
 
 .values .box:hover img {
   transform: scale(1);
@@ -1319,13 +1319,14 @@ color: rgb(103, 9, 9);
 }
 
 /*--------------------------------------------------------------
-# Our Team Section
+# Our Team Section   Faculty
 --------------------------------------------------------------*/
 .team .member {
   text-align: center;
   margin-bottom: 20px;
   background: #fff;
-  border: 1px solid rgba(14, 29, 52, 0.15);
+  box-shadow: 0px 0 25px 0 rgba(0, 0, 0, 0.1);
+  /* border: 1px solid rgba(14, 29, 52, 0.15); */
 }
 
 .team .member img {
@@ -1354,6 +1355,14 @@ color: rgb(103, 9, 9);
   font-size: 14px;
   font-style: italic;
   color: #6c757d;
+}
+
+.team .member img:hover{
+  transform: scale(1.1);
+  transition: 0.5s;
+  box-shadow: 0px 0 30px rgba(1, 41, 112, 0.08);
+
+
 }
 
 .team .member .social {
