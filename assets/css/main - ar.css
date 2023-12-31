@@ -32,7 +32,7 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: var(--font-default);
+  font-family: 'Cairo', sans-serif;
   color: var(--color-default);
 }
 
