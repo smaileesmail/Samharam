@@ -1881,7 +1881,7 @@ color: rgb(103, 9, 9);
   width: 100%;
   min-height: 50vh;
   background-color: var(--color-secondary);
-  background-image: url("../img/banner/Banner.png");
+  background-image: url("../img/banner/1111.png");
   background-size: cover;
   background-position: center;
   position: relative;
@@ -1895,6 +1895,7 @@ color: rgb(103, 9, 9);
   font-size: 48px;
   font-weight: 700;
   color: rgb(182, 185, 183)
+  
 }
 
 @media (max-width: 575px) {
@@ -1907,6 +1908,16 @@ color: rgb(103, 9, 9);
   font-size: 20px;
   font-weight: 400;
   margin-bottom: 40px;
+ 
+}
+
+.hero .Lucida {
+  /* sets the text to Lucida Handwriting font*/
+  font-family: "Lucida Handwriting", cursive;
+}
+.hero .Papyrus {
+  
+  font-family: Papyrus, fantasy;
 }
 
 .hero form {
