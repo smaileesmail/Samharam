@@ -1894,7 +1894,7 @@ color: rgb(103, 9, 9);
   padding: 0;
   font-size: 48px;
   font-weight: 700;
-  color: rgb(182, 185, 183)
+  color: rgb(252, 255, 253)
   
 }
 
@@ -1911,10 +1911,10 @@ color: rgb(103, 9, 9);
  
 }
 
-.hero .Lucida {
+/* .hero .Lucida { */
   /* sets the text to Lucida Handwriting font*/
-  font-family: "Lucida Handwriting", cursive;
-}
+  /* font-family: "Lucida Handwriting", cursive;
+} */
 .hero .Papyrus {
   
   font-family: Papyrus, fantasy;
